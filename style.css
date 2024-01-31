@@ -1,0 +1,26 @@
+
+
+#countLabel {
+    display:block;
+    text-align: center;
+    font-size: 30em;
+    font-family: 'Black Ops One', system-ui;}
+
+#buttondiv{
+    text-align: center;
+}
+.button{
+    padding:10px 20px ;
+    font-size: 25px;
+    color: aliceblue;
+    background: rgb(34,98,195);
+    background: linear-gradient(0deg, rgba(34,98,195,1) 0%, rgba(45,233,253,1) 100%);
+    cursor: pointer;
+    border-radius: 15px;
+    transition: 0.25s;
+}
+.button:hover{
+    
+    background: rgb(4,8,87);
+    background: linear-gradient(0deg, rgba(4,8,87,1) 20%, rgba(90,164,218,1) 88%);
+}
